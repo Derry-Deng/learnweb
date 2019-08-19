@@ -38,3 +38,4 @@ C:\Users\Flying\source\repos\ContosoUniversity\ContosoUniversity\obj\Debug\netco
 C:\Users\Flying\source\repos\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Views\Courses\Details.g.cshtml.cs
 C:\Users\Flying\source\repos\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Views\Courses\Edit.g.cshtml.cs
 C:\Users\Flying\source\repos\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Views\Courses\Index.g.cshtml.cs
+C:\Users\Flying\source\repos\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Views\Home\About.g.cshtml.cs
