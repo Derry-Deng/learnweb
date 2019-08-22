@@ -39,3 +39,13 @@ C:\Users\Flying\source\repos\ContosoUniversity\ContosoUniversity\obj\Debug\netco
 C:\Users\Flying\source\repos\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Views\Courses\Edit.g.cshtml.cs
 C:\Users\Flying\source\repos\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Views\Courses\Index.g.cshtml.cs
 C:\Users\Flying\source\repos\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\Flying\source\repos\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Views\Instructors\Create.g.cshtml.cs
+C:\Users\Flying\source\repos\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Views\Instructors\Delete.g.cshtml.cs
+C:\Users\Flying\source\repos\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Views\Instructors\Details.g.cshtml.cs
+C:\Users\Flying\source\repos\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Views\Instructors\Edit.g.cshtml.cs
+C:\Users\Flying\source\repos\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Views\Instructors\Index.g.cshtml.cs
+C:\Users\Flying\source\repos\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Views\Departments\Create.g.cshtml.cs
+C:\Users\Flying\source\repos\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Views\Departments\Delete.g.cshtml.cs
+C:\Users\Flying\source\repos\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Views\Departments\Details.g.cshtml.cs
+C:\Users\Flying\source\repos\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Views\Departments\Edit.g.cshtml.cs
+C:\Users\Flying\source\repos\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Views\Departments\Index.g.cshtml.cs
