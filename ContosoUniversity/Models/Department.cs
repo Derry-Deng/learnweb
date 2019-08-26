@@ -23,14 +23,13 @@ namespace ContosoUniversity.Models
 
         public int? InstructorID { get; set; }
 
-<<<<<<< HEAD
+
         //跟踪属性，用于处理并发冲突
         [Timestamp]//指定此列包含在发送到数据库的Update和Delete命令的Where子句中
         public byte[] RowVersion { get; set; }
 
 
-=======
->>>>>>> 7b04fd22ce5d2f5d1d797d7aedaec6d66ded5b90
+
         public Instructor Administrator { get; set; }
         public ICollection<Course> Courses { get; set; }
     }
