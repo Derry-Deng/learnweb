@@ -64,13 +64,12 @@ namespace ContosoUniversity.Migrations
                     b.Property<string>("Name")
                         .HasMaxLength(50);
 
-<<<<<<< HEAD
+
                     b.Property<byte[]>("RowVersion")
                         .IsConcurrencyToken()
                         .ValueGeneratedOnAddOrUpdate();
 
-=======
->>>>>>> 7b04fd22ce5d2f5d1d797d7aedaec6d66ded5b90
+
                     b.Property<DateTime>("StartDate");
 
                     b.HasKey("DepartmentID");
